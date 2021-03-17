@@ -1,0 +1,8 @@
+{
+  "name": "heroku-zflj",
+  "description": "using Docker",
+  "repository": "https://github.com/lajippx/lajifd",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg",
+  "keywords": ["zfile", "docker", "proxy"],
+  "stack": "container"
+}
